@@ -25,6 +25,10 @@
     bashgem install rails
 
 
+5. Клон проекта
+    git clone https://github.com/abdulhatov/orders_app.git
+    cd orders_app
+
 # Тестирование в Rails Console
 
 cd orders_app
