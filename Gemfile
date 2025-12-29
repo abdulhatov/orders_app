@@ -65,4 +65,4 @@ group :test do
   gem "selenium-webdriver"
 end
 
-gem "sqlite3", "~> 2.8"
+gem "sqlite3", "~> 2.9"
